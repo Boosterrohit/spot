@@ -181,9 +181,6 @@
   cursor: pointer;
 }
 @media (min-width: 768px) {
-  .c3 {
-    margin-top: 17px;
-  }
 }
 .c3:hover {
   transform: translateY(-20px);
@@ -194,7 +191,6 @@
 .c2:hover {
   transform: translateY(-20px);
 }
-
 .servcard .card-text {
   font-size: 15px;
 }

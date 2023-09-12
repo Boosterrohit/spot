@@ -7,8 +7,8 @@ const FeedBack = () => {
       <div className="container compan">
         <h1 className="text-center fw-bold py-4 com">COMPANY FEEDBACK</h1>
         <div className="row px-3 d-flex justify-content-center">
-          <div className="col-sm-6 col-lg-4">
-            <Card className="company c1">
+          <div className="col-sm-6 col-lg-4 mt-4">
+            <Card className="company c1 ">
               <Card.Body>
                 <div className="d-flex">
                   <Card.Title>Rachel</Card.Title>
@@ -33,7 +33,7 @@ const FeedBack = () => {
               </Card.Body>
             </Card>
           </div>
-          <div className="col-sm-6 col-lg-4">
+          <div className="col-sm-6 col-lg-4 mt-4">
             <Card className="company c2">
               <Card.Body>
                 <div className="d-flex">
@@ -59,7 +59,7 @@ const FeedBack = () => {
               </Card.Body>
             </Card>
           </div>
-          <div className="col-sm-6 col-lg-4">
+          <div className="col-sm-6 col-lg-4 mt-4">
             <Card className="company c3">
               <Card.Body>
                 <div className="d-flex">
